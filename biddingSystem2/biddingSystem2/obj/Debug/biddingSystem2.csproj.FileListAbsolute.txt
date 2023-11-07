@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\C# Tutorial\biddingSystem2\biddingSystem2\bin\Debug\biddingSystem2.exe.config
+C:\Users\HP\Desktop\C# Tutorial\biddingSystem2\biddingSystem2\bin\Debug\biddingSystem2.exe
+C:\Users\HP\Desktop\C# Tutorial\biddingSystem2\biddingSystem2\bin\Debug\biddingSystem2.pdb
+C:\Users\HP\Desktop\C# Tutorial\biddingSystem2\biddingSystem2\obj\Debug\biddingSystem2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Tutorial\biddingSystem2\biddingSystem2\obj\Debug\biddingSystem2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Tutorial\biddingSystem2\biddingSystem2\obj\Debug\biddingSystem2.exe
+C:\Users\HP\Desktop\C# Tutorial\biddingSystem2\biddingSystem2\obj\Debug\biddingSystem2.pdb
+C:\Users\CL2-PC3\Desktop\biddingSystem2\biddingSystem2\bin\Debug\biddingSystem2.exe.config
+C:\Users\CL2-PC3\Desktop\biddingSystem2\biddingSystem2\obj\Debug\biddingSystem2.exe
+C:\Users\CL2-PC3\Desktop\biddingSystem2\biddingSystem2\obj\Debug\biddingSystem2.pdb
+C:\Users\CL2-PC3\Desktop\biddingSystem2\biddingSystem2\bin\Debug\biddingSystem2.exe
+C:\Users\CL2-PC3\Desktop\biddingSystem2\biddingSystem2\bin\Debug\biddingSystem2.pdb
+C:\Users\CL2-PC3\Desktop\biddingSystem2\biddingSystem2\obj\Debug\biddingSystem2.csprojResolveAssemblyReference.cache
